@@ -6,3 +6,4 @@ yfinance
 scikit-learn
 python-dateutil
 requests
+plotly
