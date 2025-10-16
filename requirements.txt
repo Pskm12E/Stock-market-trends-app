@@ -7,3 +7,4 @@ scikit-learn
 python-dateutil
 requests
 plotly
+streamlit-autorefresh
