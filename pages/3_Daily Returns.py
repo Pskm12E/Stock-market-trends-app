@@ -77,7 +77,8 @@ else:
 # -----------------------------
 # Line chart for daily returns across the range of dates selected
 st.subheader("Daily Returns for Range of Dates selected:")
-st.line_chart(df, x="Date", y="Close", width=0, height=0, use_container_width=True)
+# st.line_chart(df, x="Date", y="Close", width=0, height=0, use_container_width=True)
+st.line_chart(df, x="Date", y="Close", width=800, height=400)
 
 # -----------------------------
 # Sidebar status
