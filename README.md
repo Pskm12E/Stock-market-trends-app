@@ -81,3 +81,5 @@ Project/
 ├── .gitignore                     
 └── Starting_page.py       
 ```     
+
+View Live Demo: https://stock-market-app-pskm12e.streamlit.app
